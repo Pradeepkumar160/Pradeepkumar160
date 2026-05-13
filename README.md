@@ -294,14 +294,16 @@ current_focus = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] 🏅 Complete **AWS Solutions Architect** certification
-- [ ] 🔐 Participate in **10+ CTF** competitions
-- [ ] 🌟 Reach **100 GitHub stars** across projects
-- [ ] 🤝 Land a **cybersecurity / full-stack internship**
-- [ ] 📝 Write **technical blogs** on security & AI
-- [ ] 🚀 Launch an open-source security tool
+| # | Goal | Target | Status |
+|---|------|--------|--------|
+| 🏅 | Complete **AWS Solutions Architect** certification | SAA-C03 + Security Specialty | ⬜ |
+| 🔐 | Compete in **15+ CTF** competitions & publish write-ups | 15 CTFs | ⬜ |
+| 🌟 | Reach **250 GitHub stars** across projects | 250 ⭐ | ⬜ |
+| 🤝 | Convert internship into a **return offer / referral** | Full-time / referral | ⬜ |
+| 📝 | Publish **12 technical blogs** (security & AI) | 1 per month | ⬜ |
+| 🚀 | Ship **v1.0** of open-source security tool | Stable release + docs | ⬜ |
 
 ---
 
