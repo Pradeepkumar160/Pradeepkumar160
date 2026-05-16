@@ -1,14 +1,17 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff88,100:00cfff&amp;height=200&amp;section=header&amp;text=Pradeep%20Kumar&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI%2FML%20%7C%20Cloud%20%26%20DevOps&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" width="100%"/>
+<!-- HEADER - plain h1 works everywhere, no external image needed -->
+<h1>👋 Hey, I'm Pradeep Kumar</h1>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Pradeep+%F0%9F%91%8B;Full-Stack+Dev+%7C+Security+Researcher;AI%2FML+Engineer+%7C+Cloud+%26+DevOps;Building+secure+%26+intelligent+systems;Open+to+Internships+%26+Collaborations!)](https://readme-typing-svg.demolab.com)
+<p><b>< Full-Stack Dev /> 🔐 Cybersecurity &nbsp;|&nbsp; 🤖 AI/ML &nbsp;|&nbsp; ☁️ Cloud & DevOps</b></p>
 
-<!-- CONNECT BADGES -->
+<!-- TYPING ANIMATION - img tag avoids markdown link wrapper issues -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=620&lines=Full-Stack+Dev+%7C+Security+Researcher;AI%2FML+Engineer+%7C+Cloud+%26+DevOps;Building+secure+%26+intelligent+systems;Open+to+Internships+%26+Collaborations!" alt="Typing SVG" />
+
+<br/>
 <br/>
 
+<!-- CONNECT BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pradeep%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/07pradeepk/)
 [![GitHub](https://img.shields.io/badge/GitHub-Pradeepkumar160-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradeepkumar160)
 [![Gmail](https://img.shields.io/badge/Gmail-pradeep16024%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeep16024@gmail.com)
@@ -144,10 +147,13 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeepkumar160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9&cache_seconds=1800" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepkumar160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pradeepkumar160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9" height="165" alt="Pradeep's GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepkumar160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" width="49%"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
 
 </div>
 
@@ -190,7 +196,7 @@ current_focus = {
 
 <br/>
 
-💬 I love connecting with developers, security researchers, and AI enthusiasts!  
+💬 I love connecting with developers, security researchers, and AI enthusiasts!
 Feel free to reach out — always happy to collaborate. 🚀
 
 <br/>
@@ -200,7 +206,5 @@ Feel free to reach out — always happy to collaborate. 🚀
 <br/>
 
 ⭐ **Star my repos if you find them useful — it keeps me motivated to build more!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00cfff,100:00ff88&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
