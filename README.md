@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00cfff&height=200&section=header&text=Pradeep%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI%2FML%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff88,100:00cfff&amp;height=200&amp;section=header&amp;text=Pradeep%20Kumar&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI%2FML%20%7C%20Cloud%20%26%20DevOps&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pradeep+%F0%9F%91%8B;Full-Stack+Dev+%7C+Security+Researcher;AI%2FML+Engineer+%7C+Cloud+%26+DevOps;Building+secure+%26+intelligent+systems;Open+to+Internships+%26+Collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Pradeep+%F0%9F%91%8B;Full-Stack+Dev+%7C+Security+Researcher;AI%2FML+Engineer+%7C+Cloud+%26+DevOps;Building+secure+%26+intelligent+systems;Open+to+Internships+%26+Collaborations!)](https://readme-typing-svg.demolab.com)
 
 <!-- CONNECT BADGES -->
 <br/>
@@ -144,10 +144,10 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pradeepkumar160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepkumar160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pradeepkumar160&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepkumar160&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" width="49%"/>
 
 </div>
 
@@ -201,6 +201,6 @@ Feel free to reach out — always happy to collaborate. 🚀
 
 ⭐ **Star my repos if you find them useful — it keeps me motivated to build more!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:00ff88&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00cfff,100:00ff88&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
