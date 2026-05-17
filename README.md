@@ -197,7 +197,7 @@ current_focus = {
 <br/>
 
 💬 I love connecting with developers, security researchers, and AI enthusiasts!
-Feel free to reach out — always happy to collaborate. 🚀
+Feel free to reach out — always happy to collaborate.
 
 <br/>
 
