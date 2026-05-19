@@ -67,7 +67,11 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 | [☁️ Serverless To-Do (AWS)](https://github.com/Pradeepkumar160/Serverless-To-Do-List-Application-AWS-Cloud-Web-Development) | Lambda + API Gateway + DynamoDB with SAM templates. Auto-scaling serverless architecture | `AWS` `Lambda` `DynamoDB` | ⭐ 2 |
 | [🔐 AuthFlow API](https://github.com/Pradeepkumar160/authflow-api) | Secure role-based task management API with JWT auth, React frontend & Docker support | `TypeScript` `Node.js` `React` | ⭐ 2 |
 | [📱 Task Manager Flutter](https://github.com/Pradeepkumar160/task-manager-flutter-app) | Modern cross-platform Flutter app with dark UI, Riverpod state management & smooth animations | `Flutter` `Dart` `Riverpod` | ⭐ 2 |
-
+| [🛡️ ShieldVault ](https://github.com/Pradeepkumar160/shield-vault) | Production-grade secure file upload & virus scanning service with AES-256 encryption, ClamAV scanning, JWT auth, signed download URLs & admin dashboard | Node.js Security ClamAV JWT | ⭐ 1 |
+| 📢 Notifyre | Real-time notification platform with responsive UI, instant alerts & modern frontend experience | HTML JavaScript Realtime | ⭐ 1 |
+| 🔑 Secure JWT Auth Microservice | Production-ready JWT authentication microservice with RBAC, email verification & brute-force protection | TypeScript Node.js Docker | ⭐ 2 |
+| 🔒 prompt-injection-security-lab | Educational LLM security lab with real-world prompt injection attacks, prompt sanitization & multi-layer defenses | Python LLM Security | ⭐ 1 |
+| 🖊️ SyncPad | Real-time collaborative document editor with CRDT conflict resolution, live sync & auto-save support | React Node.js Yjs Socket.io | ⭐ 1 |
 </div>
 
 ---
