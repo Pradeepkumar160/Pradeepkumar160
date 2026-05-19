@@ -59,19 +59,18 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 |--------|-------------|-------|-------|
 | [🔒 prompt-injection-security-lab](https://github.com/Pradeepkumar160/prompt-injection-security-lab) | Educational LLM security lab — real-world prompt injection attacks vs multi-layer defenses. Side-by-side vulnerable & secure chatbot. | `Python` `LLM` `Security` | ⭐ 1 |
 | [🛡️ IDS Web Application](https://github.com/Pradeepkumar160/IDS-Intrusion-Detection-System-WEB-APPLICATION-) | ML-powered real-time intrusion detection system with live Prometheus + Grafana dashboard | `Python` `Flask` `ML` | ⭐ 2 |
-| [⚡ AI DevOps Platform](https://github.com/Pradeepkumar160/ai-devops-platform) | Autonomous SRE platform — Llama3 AI chat, real-time monitoring, auto-healing alerts, fully containerized | `JS` `Python` `Docker` `K8s` | ⭐ 2 |
-| [🔑 Secure JWT Auth Microservice](https://github.com/Pradeepkumar160/Secure-JWT-Auth-Microservice) | Production-ready microservice with RBAC, email verification & brute-force protection | `TypeScript` `Node.js` `Docker` | ⭐ 2 |
-| [🖊️ SyncPad](https://github.com/Pradeepkumar160/syncpad) | Real-time collaborative document editor with CRDT conflict resolution, live sync & auto-save | `React` `Node.js` `Yjs` `Socket.io` | ⭐ 1 |
-| [🛡️ RateShield](https://github.com/Pradeepkumar160/RateShield) | Distributed rate limiter using Redis + Lua. Zero race conditions, horizontally scalable | `JavaScript` `Redis` `Lua` | ⭐ 1 |
-| [🧠 MindGuard AI](https://github.com/Pradeepkumar160/mindguard-ai) | NLP detection of suicidal ideation in social media — AI for social good | `Python` `NLP` `ML` | ⭐ 2 |
-| [☁️ Serverless To-Do (AWS)](https://github.com/Pradeepkumar160/Serverless-To-Do-List-Application-AWS-Cloud-Web-Development) | Lambda + API Gateway + DynamoDB with SAM templates. Auto-scaling serverless architecture | `AWS` `Lambda` `DynamoDB` | ⭐ 2 |
-| [🔐 AuthFlow API](https://github.com/Pradeepkumar160/authflow-api) | Secure role-based task management API with JWT auth, React frontend & Docker support | `TypeScript` `Node.js` `React` | ⭐ 2 |
+| [⚡ AI DevOps Platform](https://github.com/Pradeepkumar160/ai-devops-platform) | Autonomous SRE platform — Llama3 AI chat, real-time monitoring, auto-healing alerts & fully containerized infrastructure | `JavaScript` `Python` `Docker` `K8s` | ⭐ 2 |
+| [🔑 Secure JWT Auth Microservice](https://github.com/Pradeepkumar160/Secure-JWT-Auth-Microservice) | Production-ready authentication microservice with RBAC, email verification & brute-force protection | `TypeScript` `Node.js` `Docker` | ⭐ 2 |
+| [🖊️ SyncPad](https://github.com/Pradeepkumar160/syncpad) | Real-time collaborative document editor with CRDT conflict resolution, live sync & auto-save support | `React` `Node.js` `Yjs` `Socket.io` | ⭐ 1 |
+| [🛡️ RateShield](https://github.com/Pradeepkumar160/RateShield) | Distributed rate limiter using Redis + Lua with zero race conditions & horizontal scalability | `JavaScript` `Redis` `Lua` | ⭐ 1 |
+| [🧠 MindGuard AI](https://github.com/Pradeepkumar160/mindguard-ai) | NLP-powered suicidal ideation detection system for social media analysis & AI-driven mental health insights | `Python` `NLP` `ML` | ⭐ 2 |
+| [☁️ Serverless To-Do (AWS)](https://github.com/Pradeepkumar160/Serverless-To-Do-List-Application-AWS-Cloud-Web-Development) | Serverless task management app using Lambda, API Gateway & DynamoDB with auto-scaling cloud architecture | `AWS` `Lambda` `DynamoDB` | ⭐ 2 |
+| [🔐 AuthFlow API](https://github.com/Pradeepkumar160/authflow-api) | Secure role-based task management API with JWT authentication, React frontend & Docker support | `TypeScript` `Node.js` `React` | ⭐ 2 |
 | [📱 Task Manager Flutter](https://github.com/Pradeepkumar160/task-manager-flutter-app) | Modern cross-platform Flutter app with dark UI, Riverpod state management & smooth animations | `Flutter` `Dart` `Riverpod` | ⭐ 2 |
-| [🛡️ ShieldVault ](https://github.com/Pradeepkumar160/shield-vault) | Production-grade secure file upload & virus scanning service with AES-256 encryption, ClamAV scanning, JWT auth, signed download URLs & admin dashboard | Node.js Security ClamAV JWT | ⭐ 1 |
-| 📢 Notifyre | Real-time notification platform with responsive UI, instant alerts & modern frontend experience | HTML JavaScript Realtime | ⭐ 1 |
-| 🔑 Secure JWT Auth Microservice | Production-ready JWT authentication microservice with RBAC, email verification & brute-force protection | TypeScript Node.js Docker | ⭐ 2 |
-| 🔒 prompt-injection-security-lab | Educational LLM security lab with real-world prompt injection attacks, prompt sanitization & multi-layer defenses | Python LLM Security | ⭐ 1 |
-| 🖊️ SyncPad | Real-time collaborative document editor with CRDT conflict resolution, live sync & auto-save support | React Node.js Yjs Socket.io | ⭐ 1 |
+| [🛡️ ShieldVault](https://github.com/Pradeepkumar160/shield-vault) | Production-grade secure file upload & virus scanning service with AES-256 encryption, ClamAV scanning, JWT auth & signed download URLs | `Node.js` `Security` `ClamAV` `JWT` | ⭐ 1 |
+| [📢 Notifyre](https://github.com/Pradeepkumar160/notifyre) | Real-time notification platform with responsive UI, instant alerts & modern frontend experience | `HTML` `JavaScript` `Realtime` | ⭐ 1 |
+| [🛒 Nexus Store](https://github.com/Pradeepkumar160/nexus-store) | Modern e-commerce storefront with responsive layouts, product showcases & clean shopping experience | `HTML` `CSS` `JavaScript` | ⭐ 1 |
+| [🗂️ Smart File Organizer](https://github.com/Pradeepkumar160/smart-file-organizer) | Intelligent file organization tool that automatically sorts & manages files using Python automation workflows | `Python` `Automation` `File Management` | ⭐ 2 |
 </div>
 
 ---
