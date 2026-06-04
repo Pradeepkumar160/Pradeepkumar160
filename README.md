@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- HEADER - plain h1 works everywhere, no external image needed -->
+<!-- HEADER -->
 <h1>👋 Hey, I'm Pradeep Kumar</h1>
 
 <p><b>< Full-Stack Dev /> 🔐 Cybersecurity &nbsp;|&nbsp; 🤖 AI/ML &nbsp;|&nbsp; ☁️ Cloud & DevOps</b></p>
 
-<!-- TYPING ANIMATION - img tag avoids markdown link wrapper issues -->
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=620&lines=Full-Stack+Dev+%7C+Security+Researcher;AI%2FML+Engineer+%7C+Cloud+%26+DevOps;Building+secure+%26+intelligent+systems;Open+to+Internships+%26+Collaborations!" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -56,6 +57,7 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 
 | Project | Description | Stack | Stars |
 |--------|-------------|-------|-------|
+| [🤖 AI Support Agent](https://github.com/Pradeepkumar160/ai-support-agent) | Production-grade AI customer support agent with LangGraph tool-calling, ChromaDB vector search, Redis session memory & real-time streaming | `Python` `FastAPI` `LangGraph` `React` `Docker` | ⭐ |
 | [🔒 prompt-injection-security-lab](https://github.com/Pradeepkumar160/prompt-injection-security-lab) | Educational LLM security lab — real-world prompt injection attacks vs multi-layer defenses. Side-by-side vulnerable & secure chatbot. | `Python` `LLM` `Security` | ⭐ 1 |
 | [🛡️ IDS Web Application](https://github.com/Pradeepkumar160/IDS-Intrusion-Detection-System-WEB-APPLICATION-) | ML-powered real-time intrusion detection system with live Prometheus + Grafana dashboard | `Python` `Flask` `ML` | ⭐ 2 |
 | [⚡ AI DevOps Platform](https://github.com/Pradeepkumar160/ai-devops-platform) | Autonomous SRE platform — Llama3 AI chat, real-time monitoring, auto-healing alerts & fully containerized infrastructure | `JavaScript` `Python` `Docker` `K8s` | ⭐ 2 |
@@ -70,6 +72,7 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 | [📢 Notifyre](https://github.com/Pradeepkumar160/notifyre) | Real-time notification platform with responsive UI, instant alerts & modern frontend experience | `HTML` `JavaScript` `Realtime` | ⭐ 1 |
 | [🛒 Nexus Store](https://github.com/Pradeepkumar160/nexus-store) | Modern e-commerce storefront with responsive layouts, product showcases & clean shopping experience | `HTML` `CSS` `JavaScript` | ⭐ 1 |
 | [🗂️ Smart File Organizer](https://github.com/Pradeepkumar160/smart-file-organizer) | Intelligent file organization tool that automatically sorts & manages files using Python automation workflows | `Python` `Automation` `File Management` | ⭐ 2 |
+
 </div>
 
 ---
@@ -116,15 +119,19 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & APIs**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 **Cloud & DevOps**
@@ -138,6 +145,7 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 
 **AI & ML**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
@@ -151,12 +159,11 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pradeepkumar160&theme=tokyonight" height="165" alt="Pradeep's GitHub Stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pradeepkumar160&theme=tokyonight" height="165" alt="Top Languages"/>
 
 <br/><br/>
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
 
 </div>
 
@@ -186,7 +193,7 @@ current_focus = {
     "🤝 Open Source": "Contributing to security & AI tooling"
 }
 ```
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
+
 ---
 
 ## 🤝 Let's Connect!
