@@ -151,8 +151,9 @@ motto: "The quieter you become, the more you are able to hear — in code and in
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pradeepkumar160&theme=tokyonight" height="165" alt="Pradeep's GitHub Stats"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pradeepkumar160&theme=tokyonight" height="165" alt="Top Languages"/>
 <img src="https://streak-stats.demolab.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pradeepkumar160&theme=tokyonight" height="165" alt="Top Languages"/>
+
 <br/><br/>
 
 
