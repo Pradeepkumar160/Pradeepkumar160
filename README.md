@@ -6,7 +6,6 @@
 <p><b>< Full-Stack Dev /> 🔐 Cybersecurity &nbsp;|&nbsp; 🤖 AI/ML &nbsp;|&nbsp; ☁️ Cloud & DevOps</b></p>
 
 <!-- TYPING ANIMATION - img tag avoids markdown link wrapper issues -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
 
 <br/>
 <br/>
@@ -186,7 +185,7 @@ current_focus = {
     "🤝 Open Source": "Contributing to security & AI tooling"
 }
 ```
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
 ---
 
 ## 🤝 Let's Connect!
