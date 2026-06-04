@@ -6,7 +6,7 @@
 <p><b>< Full-Stack Dev /> 🔐 Cybersecurity &nbsp;|&nbsp; 🤖 AI/ML &nbsp;|&nbsp; ☁️ Cloud & DevOps</b></p>
 
 <!-- TYPING ANIMATION - img tag avoids markdown link wrapper issues -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=620&lines=Full-Stack+Dev+%7C+Security+Researcher;AI%2FML+Engineer+%7C+Cloud+%26+DevOps;Building+secure+%26+intelligent+systems;Open+to+Internships+%26+Collaborations!" alt="Typing SVG" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeepkumar160&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00cfff&currStreakLabel=00ff88" alt="GitHub Streak" width="480"/>
 
 <br/>
 <br/>
